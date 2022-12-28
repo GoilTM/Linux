@@ -22,3 +22,4 @@ nmap <F6> :NERDTreeToggle<CR>
 inoremap <C-c> <ESC> "+pa
 vnoremap <C-c> "+y
 vnoremap <C-c> "+d
+nnoremap \ :noh<return>
